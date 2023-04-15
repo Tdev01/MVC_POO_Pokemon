@@ -8,6 +8,7 @@ function connectToDB(){
     $pass = "Pokemon2023"; //mot de passe de l'utilisateur de la base de données
     $dbname = "Pokemon"; //nom de la base de données
     
+    // test avec try
     // Connection à la base de données
     try {
         //instanciation de la connexion à la base de données
